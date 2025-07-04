@@ -86,7 +86,7 @@ p {
 
 /* Header */
 header {
-    background-color: navy;
+    background-color: black;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     position: fixed;
     width: 100%;
