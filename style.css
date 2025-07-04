@@ -140,7 +140,7 @@ nav ul li a:hover::after {
     display: none;
     font-size: 1.5rem;
     cursor: pointer;
-    color: rgb(255, 255, 255);
+    color: #FFFFFF;
 }
 
 /* Hero Section */
